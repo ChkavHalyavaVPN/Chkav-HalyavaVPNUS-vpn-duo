@@ -1,0 +1,23 @@
+#profile-title: ChkavVPN & Халява ВПН 🚀
+#profile-update-interval: 3
+#subscription-userinfo: expire=300359059200; total=0; used=0
+#profile-web-page-url: https://t.me/halyava_vpnx
+#announce: Коллаба двух топовых ТГК 😎 @halyava_vpnx и @chkav_1
+
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@fin.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#🇫🇮 Финляндия #1
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@whfin.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#🇫🇮 Финляндия #2
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@de.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#🇩🇪 Германия #1
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@es.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#🇪🇸 Испания #1
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@it.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#🇮🇹 Италия #1
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@pl.ethervds.com:47040?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=f1RWqWYFHjUxAVBxFNlLtBbVs7THYjuAJvhG7nK4IEE&sid=0123456789abcdef&type=xhttp&path=%2Fapi%2Fv1%2Fdata&mode=auto#🇵🇱 Польша #1
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@pl.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#🇵🇱 Польша #2
+vless://72c319bb-577f-481c-8fc7-0364d72a395d@ip2.bv24.org:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=video.bv24.org&type=ws&sni=video.bv24.org#🇳🇱 СамыйБыстрыйByChkav
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@fr.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто FR 2
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@us.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто US
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@pl.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто PL
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@90.156.230.108:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто NL
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@it.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто IT
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@es.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто ES
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@de.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто DE
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@whfin.ethervds.com:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто WHFIN
+vless://cbcf7fa0-2539-4a7d-b53d-2da26ab65385@86.104.74.251:47030?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision#💎 Авто FR
